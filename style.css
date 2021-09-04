@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 250px;
+}
+input, button {
+    font-size: xx-large;
+    width: 150px;
+    border-radius: 20px;
+}
